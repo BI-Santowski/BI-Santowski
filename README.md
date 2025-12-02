@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I am Renato.<br>I am a full time BI developer and this is where I will host my data analytics portfolio.<br><br>🔭 I’m currently working full time as a BI developer<br>🔎 I’m looking to collaborate with clients on their data projects<br>🌱 I’m currently learning how to integrate MCP servers in Power BI development<br>💬 Ask me about anything data related<br>⚡ Fun fact: I like to build custom keyboards and do pottery
+👋 Hi! I am Renato.<br>I am a full time BI developer and this is where I host my data analytics portfolio.<br><br>🔭 I’m currently working full time as a BI developer<br>🔎 I’m looking to collaborate with clients on their data projects<br>🌱 I’m currently learning how to integrate MCP servers in Power BI development<br>💬 Ask me about anything data related<br>⚡ Fun fact: I like to build custom keyboards and do pottery
 
 
 ## 🌐 Connect with me:
