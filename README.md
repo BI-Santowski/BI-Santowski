@@ -1,15 +1,26 @@
-# 💫 About Me:
-Hi! I am Renato.<br>I am a full time BI developer and this is where I will host my data analytics portfolio.<br><br>🔭 I’m currently working full time as a BI developer<br>🔎 I’m looking to collaborate with clients on their data projects<br>🌱 I’m currently learning how to integrate MCP servers in Power BI development<br>💬 Ask me about anything data related<br>⚡ Fun fact: I like to build custom keyboards and do pottery
+<h1 align="center">Hi 👋, I'm Renato</h1>
+<h3 align="center">BI Developer</h3>
 
+- 🔭 I’m currently working as **full time developer**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/renatocpsantos/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:resan.b2b@outlook.com) 
+- 🌱 I’m currently learning **how to integrate MCP server in Power BI development**
 
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BI-Santowski&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BI-Santowski&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BI-Santowski&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 👯 I’m looking to collaborate with **clients on their data projects**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **anything data related**
+
+- 📫 How to reach me **resan.b2b@outlook.com**
+
+- ⚡ Fun fact **I like to build custom keyboards and do pottery**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/renatocpsantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/renatocpsantos/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bi-santowski&show_icons=true&locale=en&layout=compact" alt="bi-santowski" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bi-santowski&show_icons=true&locale=en" alt="bi-santowski" /></p>
