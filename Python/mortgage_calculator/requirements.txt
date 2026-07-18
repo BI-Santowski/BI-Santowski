@@ -1,3 +1,0 @@
-requirements:
-python3
-matplotlib
